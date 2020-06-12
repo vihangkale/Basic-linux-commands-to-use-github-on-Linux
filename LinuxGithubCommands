@@ -1,0 +1,20 @@
+apt-get install git ->To install git server
+
+To set up github->
+
+git config --global user.name "vihangkale"
+
+git config --global user.email "vihangk64@gmail.com"
+
+git config --list -->to check the config settings
+
+git help config -> manual
+
+to clone the existing github repository in a local directory -> git clone https://github.com/vihangkale/GithubRepositoryName.git
+
+git status - shows the status of your repository
+
+git commit -m filename - to commit the changes
+
+git push -u origin - to push the file on github
+
